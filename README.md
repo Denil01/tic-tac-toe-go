@@ -90,13 +90,13 @@ This function switches the current player for the next turn.
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/Tic-Tac-Toe.git
+    git clone https://github.com/Denil01/tic-tac-toe-go.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Tic-Tac-Toe
+    cd tic-tac-toe-go
     ```
 
 3. Run the game:
@@ -108,7 +108,7 @@ This function switches the current player for the next turn.
 ## How to Play
 
 1. The game starts with an empty 3x3 board.
-2. Players take turns entering their moves by specifying the row and column (e.g., `row[1-3] col[1-3]`). First input the row and press `ENTER` and then input the column.
+2. Players take turns entering their moves by specifying the row and column (e.g., `row[1-3] col[1-3]`). First input the row and press `ENTER` and then input the column and press `ENTER`.
 3. The game continues until one player wins or the board is full resulting in a draw.
 4. The winner is announced at the end of the game.
 
